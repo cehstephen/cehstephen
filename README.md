@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cehstephen 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning something new.
 
 <!---
 cehstephen/cehstephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
